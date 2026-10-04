@@ -1,0 +1,9 @@
+Emily Davis
+QA Engineer
+7 years of experience
+Skills: Java, Selenium, Tosca, Salesforce, API Testing, Postman, Git, CI/CD, Manual Testing, Cucumber.
+Experience:
+- Automated Salesforce testing with Tosca.
+- API testing with Postman.
+- Strong manual and automation testing background.
+- No meaningful Python or Playwright experience.

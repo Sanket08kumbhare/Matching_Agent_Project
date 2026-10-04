@@ -1,0 +1,8 @@
+Senior QA Automation Engineer
+
+We are looking for a Senior QA Automation Engineer with 3+ years of experience.
+Must have strong Python, Playwright, API Testing, Git and CI/CD experience.
+Experience with Pytest and TypeScript is preferred.
+Nice to have: Docker, AWS and Cucumber.
+The candidate should demonstrate automation framework design, debugging, regression testing,
+manual testing, and strong communication.

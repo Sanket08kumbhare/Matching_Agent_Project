@@ -1,0 +1,9 @@
+Robert Brown
+QA Engineer
+3 years of experience
+Skills: Python, Playwright, Pytest, Git, Manual Testing, SQL.
+Experience:
+- Automated UI regression using Playwright.
+- Created Pytest fixtures.
+- Good debugging and defect management.
+- No significant API testing experience.

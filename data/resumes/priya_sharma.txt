@@ -1,0 +1,9 @@
+Priya Sharma
+SDET
+5 years of experience
+Skills: Java, Playwright, TypeScript, Cucumber, API Testing, Git, CI/CD, Docker, Manual Testing.
+Experience:
+- Created Playwright TypeScript BDD framework.
+- Implemented API and UI automation.
+- Maintained CI pipelines and parallel execution.
+- Strong Cucumber and BDD experience.

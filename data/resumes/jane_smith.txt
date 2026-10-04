@@ -1,0 +1,9 @@
+Jane Smith
+QA Automation Engineer
+4 years of experience
+Skills: Python, Selenium, Pytest, API Testing, Git, TypeScript, Manual Testing, SQL.
+Experience:
+- Built Selenium regression framework.
+- Automated API validations using Python.
+- Worked with Git and agile delivery.
+- Limited Playwright production experience.

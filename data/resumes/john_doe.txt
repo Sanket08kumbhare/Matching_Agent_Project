@@ -1,0 +1,9 @@
+John Doe
+Senior QA Automation Engineer
+6 years of experience
+Skills: Python, Playwright, Pytest, API Testing, Git, CI/CD, TypeScript, Docker, AWS, Cucumber, SQL, Manual Testing.
+Experience:
+- Designed Playwright + Pytest automation framework from scratch.
+- Automated web regression and REST API suites.
+- Integrated tests into CI/CD pipelines.
+- Mentored QA engineers and performed code reviews.
